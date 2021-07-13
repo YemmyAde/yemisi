@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/yemisi/static/css/main.c5637a67.chunk.css",
+    "main.js": "/yemisi/static/js/main.06b6f43d.chunk.js",
+    "main.js.map": "/yemisi/static/js/main.06b6f43d.chunk.js.map",
+    "runtime-main.js": "/yemisi/static/js/runtime-main.3bcda58d.js",
+    "runtime-main.js.map": "/yemisi/static/js/runtime-main.3bcda58d.js.map",
+    "static/js/2.07c25d88.chunk.js": "/yemisi/static/js/2.07c25d88.chunk.js",
+    "static/js/2.07c25d88.chunk.js.map": "/yemisi/static/js/2.07c25d88.chunk.js.map",
+    "index.html": "/yemisi/index.html",
+    "static/css/main.c5637a67.chunk.css.map": "/yemisi/static/css/main.c5637a67.chunk.css.map",
+    "static/js/2.07c25d88.chunk.js.LICENSE.txt": "/yemisi/static/js/2.07c25d88.chunk.js.LICENSE.txt",
+    "static/media/1494.10ebbda9.gif": "/yemisi/static/media/1494.10ebbda9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bcda58d.js",
+    "static/js/2.07c25d88.chunk.js",
+    "static/css/main.c5637a67.chunk.css",
+    "static/js/main.06b6f43d.chunk.js"
+  ]
+}

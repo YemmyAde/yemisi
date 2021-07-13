@@ -12,7 +12,7 @@ const NavbarWithSearch = ({ placeholder, onChange }) => {
   return (
     <header className="header">
       <div className="header__lhs">
-        <a className="header__brand" href="/">
+        <a className="header__brand" href="/yemisi">
           <img 
             src={brand_logo} 
             alt="brand logo" width="45" height="45" 
